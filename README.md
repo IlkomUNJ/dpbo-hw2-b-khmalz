@@ -39,9 +39,11 @@ NIM : 1313624017
 
 # Collaborators (The person you learned from)
 1. Ananda Giwank Abhinaya
+2. Rafly Rabbany Zalfa Pateda
 
 # Students (the person you taught to complete the assignments)
 1. Ananda Giwank Abhinaya
+2. Rafly Rabbany Zalfa Pateda
 
 # AI Assistance
 AI Tools: Gemini Pro
