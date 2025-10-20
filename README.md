@@ -48,6 +48,6 @@ AI Tools: Gemini Pro
 
 Paid AI Plugin (state none, if not subscribed): none
 
-Total Prompts used (int estimate): 40-50
+Total Prompts used (int estimate): 20-30
 
 Dominant prompt used for (seek solution / implement ideas) : seek solution of error compile
